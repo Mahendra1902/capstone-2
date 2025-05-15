@@ -7,4 +7,8 @@ google-generativeai
 langchain-google-genai
 transformers
 sentence-transformers
+langchain
+langchain-google-genai
+faiss-cpu
+sentence-transformers
 
